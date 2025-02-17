@@ -1,6 +1,5 @@
 # OpenSeshell
 name change due to existing opensesame project
-![openterm](media/202502082302-mkw-openterm.mp4)
 
 ## Author: Marcia K Wilbur
 ## Date: 2/2025
