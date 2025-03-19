@@ -53,7 +53,7 @@ Run the script, speak into the microphone, and say "open terminal" to launch the
 
 ============================================
 
-#  openSesame - Installation & User Guide
+#  openSaysMe - Installation & User Guide
 ## Author: Marcia Wilbur
 ### Installation
 #### Step 1: Install Dependencies
@@ -81,10 +81,10 @@ If you hear the voice, it's installed correctly.
 
 ## How to Use openSaysMe
 #### Run the Program
-Start the Voice Terminal Opener by running:
+Start the Voice Activation Control by running:
 
 ```
-python3 openSesame_x.x.x-x.py
+python3 openSaysMe_x.x.x-x.py
 ```
 
 ## Available Voice Commands
