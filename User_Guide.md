@@ -1,4 +1,4 @@
-# Voice Command Center - User Guide
+# OpenSaysMe Voice Command Center - User Guide
 
 ## Introduction
 The **Voice Command Center** allows you to control your Linux system using voice commands. It uses **Vosk** for speech recognition and **Piper TTS** for voice responses.
