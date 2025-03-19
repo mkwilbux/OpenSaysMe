@@ -1,4 +1,4 @@
-# OpenSeshell
+# OpenSaysMe
 name change due to existing opensesame project
 
 ## Author: Marcia K Wilbur
@@ -79,7 +79,7 @@ python -c "import piper_tts; piper_tts.PiperVoice('en_US').speak('Installation c
 
 If you hear the voice, it's installed correctly.
 
-## How to Use openSesame
+## How to Use openSaysMe
 #### Run the Program
 Start the Voice Terminal Opener by running:
 
@@ -122,6 +122,6 @@ Now you’re ready to control your Linux system using voice commands.
     Example: Content creators might want to just convert jpg files to png. Command line simple.
     Example: Users might want to take screen capture in the background with scrot
 
-Also: add and restore abandoned Software.
+Also: add and restore unmaintained Software.
 fuly customizale!
 
